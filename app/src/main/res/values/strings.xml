@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyXChange</string>
+    <string name="Title">Currency Exchange</string>
+    <string name="txtHint">Money Figure to Convert</string>
+    <string name="txtRadio1">Convert to US Dollars</string>
+    <string name="txtRadio2">Convert to British Pounds</string>
+    <string name="txtButton">Convert Currency</string>
+</resources>
